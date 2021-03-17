@@ -1,3 +1,7 @@
+# Example of React Project based on Atomic Design
+
+This project was created following the Atomic Web Design Principles
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
